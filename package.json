@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-videoplayer",
+  "version": "3.1.0",
+  "description": "Video player",
+  "cordova": {
+    "id": "cordova-plugin-videoplayer",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Goodboy-Digital/VideoPlayer.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.3.0"
+    }
+  ],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/dawsonloudon/VideoPlayer/issues"
+  },
+  "homepage": "https://github.com/dawsonloudon/VideoPlayer"
+}
